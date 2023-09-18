@@ -298,7 +298,7 @@ ul a{
 div.hero-message p a button{
         height: 30px;
         background-color: slategray;
-        color: white;
+        color: rgb(64, 116, 230);
         border-radius: 3px;
         font-size: 12px;
         font-weight: 610;
