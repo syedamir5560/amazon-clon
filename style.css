@@ -294,3 +294,13 @@ ul a{
 .pages a{
     padding-left: 10px;
 }
+
+div.hero-message p a button{
+        height: 30px;
+        background-color: slategray;
+        color: white;
+        border-radius: 3px;
+        font-size: 12px;
+        font-weight: 610;
+        cursor: pointer;
+}
